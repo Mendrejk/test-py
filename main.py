@@ -1,1 +1,3 @@
-prit('hello from python')
+print('hello from python')
+x = 2
+print (x ** 3)
