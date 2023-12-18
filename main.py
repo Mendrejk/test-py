@@ -1,3 +1,3 @@
 print('hello from python')
 x = 2
-print (x ** 3)
+print (y ** 3)
